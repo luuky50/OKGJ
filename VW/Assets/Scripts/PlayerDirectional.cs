@@ -7,8 +7,7 @@ public class PlayerDirectional : MonoBehaviour {
     public GameObject playerCharacterObject;
     public int speed = 0;
     private float _speed;
-    private bool diagonalMove = false;
-
+    
     // Use this for initialization
     void Start () {
 		
